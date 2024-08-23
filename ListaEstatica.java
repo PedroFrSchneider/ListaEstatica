@@ -56,6 +56,4 @@ public class ListaEstatica<T> {
             System.out.println(itens[i]);
         }
     }
-
-    // Fechando a classe ListaEstatica
 }
